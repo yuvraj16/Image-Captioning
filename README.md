@@ -11,3 +11,10 @@ Usually, a pretrained CNN extracts the features from our input image. The featur
 
 
 ![image](https://github.com/yuvraj16/Image-Captioning/blob/master/Model.png)
+
+## RESULT
+
+![image](https://github.com/yuvraj16/Image-Captioning/blob/master/Output%201.png)
+
+![image](https://github.com/yuvraj16/Image-Captioning/blob/master/Output%202.png) 
+
