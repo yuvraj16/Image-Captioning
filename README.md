@@ -10,4 +10,4 @@ Automatically generating textual description from an artificial system is the ta
 Usually, a pretrained CNN extracts the features from our input image. The feature vector is linearly transformed to have the same dimension as the input dimension of the RNN/LSTM network. This network is trained as a language model on our feature vector. For training our LSTM model, we predefine our label and target text.
 
 
-[!image](https://github.com/yuvraj16/Image-Captioning/blob/master/Model.png)
+![image](https://github.com/yuvraj16/Image-Captioning/blob/master/Model.png)
