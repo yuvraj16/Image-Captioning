@@ -1,1 +1,3 @@
 # Image-Captioning 
+
+Image Captioning refers to the process of generating textual description from an image – based on the objects and actions in the image. Image captioning is interesting to us because the problem setting requires both an understanding of what features (or pixel context) represent which objects, and the creation of a semantic construction “grounded” to those objects. The task of image captioning is divided into two modules – Image based modules and language-based module. For Image based module, we rely on Convolutional Neural Network model and for the languages-based module, we rely on a Recurrent Neural Network.
